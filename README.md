@@ -64,7 +64,7 @@ SocketCAN does not come shipped with the kernel by default. We need to compile k
 
 - Verify that the instance is using the new kernel by typing 
 
-		"uname -r"
+		uname -r
 
 - Install CAN-Utils:
 

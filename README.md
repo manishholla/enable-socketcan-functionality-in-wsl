@@ -23,6 +23,11 @@ SocketCAN does not come shipped with the kernel by default. We need to compile k
 
 		sudo apt update && sudo apt install build-essential flex bison libssl-dev libelf-dev libncurses5-dev
 
+- Clean make and mrproper:
+
+  		sudo make clean
+  		sudo make mrproper
+
 - Configure the kernel by entering into the folder and using menuconfig:
 
 		cd WSL2-Linux-Kernel

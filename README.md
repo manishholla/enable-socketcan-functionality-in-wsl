@@ -7,7 +7,7 @@ Kernel: 5.15.146.1-microsoft-standard-WSL2+
 CPU: AMD Ryzen 7 5800H with Radeon Graphics (16) @ 3.193GHz
 GPU: 219e:00:00.0 Microsoft Corporation Basic Render Driver
 
-- SocketCAN does not come shipped with the kernel by default. We need to compile kernel from source in order to enable the same. For that the steps are:
+SocketCAN does not come shipped with the kernel by default. We need to compile kernel from source in order to enable the same. For that the steps are:
 
 - Update the apt repositories and upgrade all the required packages:
 

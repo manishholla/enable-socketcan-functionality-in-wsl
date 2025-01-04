@@ -1,4 +1,4 @@
-# Enable SocektCAN functionality in WSL
+# Enable SocketCAN functionality in WSL
 
 This tutorial will give a brief walkthrough to enable SocketCAN functionality in WSL. To be specific I am using WSL2 with Ubuntu image and this is the system details:
 

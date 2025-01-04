@@ -26,6 +26,7 @@ SocketCAN does not come shipped with the kernel by default. We need to compile k
 - Clean make and mrproper:
 
   		sudo make clean
+  
   		sudo make mrproper
 
 - Configure the kernel by entering into the folder and using menuconfig:

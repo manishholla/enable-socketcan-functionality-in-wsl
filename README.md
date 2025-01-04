@@ -1,4 +1,4 @@
-# enable-socketcan-functionality-in-wsl2
+# Enable SocektCAN functionality in WSL
 
 This tutorial will give a brief walkthrough to enable SocketCAN functionality in WSL. To be specific I am using WSL2 with Ubuntu image and this is the system details:
 
@@ -94,3 +94,6 @@ You can test can-utils functionality:
    terminal1: ``cangen vcan0 -v -v``
 
    terminal2: ``candump vcan0``
+
+
+For ease, I have also attached the bzImage to this repository. But I would strongly suggest you compile kernel from the source.

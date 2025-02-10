@@ -105,4 +105,4 @@ You can test can-utils functionality:
    terminal2: ``candump vcan0``
 
 
-For ease, I have also attached the bzImage to this repository. But I would strongly suggest you compile kernel from the source.
+For convenience, I have also included the compiled kernel binary (bzImage) in the release section. However, I would strongly recommend that you compile the kernel from the source code.
